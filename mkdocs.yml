@@ -14,10 +14,10 @@ plugins: []
 site_url: https://agardnerit.github.io/cloudcon
 nav:
   - Home: "/"
-  - Register: "/register"
-  - Sponsors: "/sponsors"
-  - Agenda: "/agenda"
-  - Speakers & Call for Papers: "/speakers"
+  - Register: "./register"
+  - Sponsors: "sponsors"
+  - Agenda: "./agenda"
+  - Speakers & Call for Papers: "./speakers"
   
 extra:
   social:
