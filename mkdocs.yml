@@ -13,9 +13,9 @@ theme:
 plugins: []
 site_url: https://agardnerit.github.io/cloudcon
 nav:
-  - Home: "./"
+  - Home: "/cloudcon"
   - Register: "./register"
-  - Sponsors: "sponsors"
+  - Sponsors: "./sponsors"
   - Agenda: "./agenda"
   - Speakers & Call for Papers: "./speakers"
   
