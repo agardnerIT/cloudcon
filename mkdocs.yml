@@ -11,6 +11,7 @@ theme:
 # plugins:
 #   - social
 plugins: []
+site_url: https://agardnerit.github.io/cloudcon
 nav:
   - Home: "/"
   - Register: "/register"
