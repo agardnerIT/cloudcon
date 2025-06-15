@@ -7,10 +7,7 @@ hide:
 # Sponsors
 
 !!! tip "Want to Sponsor?"
-    Great! We're looking for 2 new Gold and 1 new Bronze sponsor.
-    
-    Contact us: `organizers@kcdaustralia.onmicrosoft.com`
-
+    Great! We would love to have you! Contact us: `organizers@kcdaustralia.onmicrosoft.com`
 
 ## Diamond Sponsors
 
@@ -58,7 +55,6 @@ hide:
 
 ## Additional Sponsors
 
-
 | Opportunity | Price | Sponsor |
 |-------------|-------|---------|
 | Coffee Cart Sponsorship – includes branding on coffee cart.<br />Branded coffee cups to be supplied by sponsor | $5,000 + GST AUD | [Still Available :fontawesome-solid-paper-plane:](mailto:organizers@kcdaustralia.onmicrosoft.com){ .md-button .green } |
@@ -72,4 +68,4 @@ hide:
 !!! info "Need More Information?"
     [Download the sponsorship prospectus :fontawesome-solid-file-pdf:](files/CloudCon-Sydney-2025-sponsor-prospectus.pdf){ .md-button }
 
-    For any additional enquiries, please reach out to Brendon Thwaites at [Organizers@KCDAustralia.onmicrosoft.com](mailto:Organizers@KCDAustralia.onmicrosoft.com)
+    For any additional enquiries, please reach out to Brendon Thwaites at [organizers@kcdaustralia.onmicrosoft.com](mailto:organizers@kcdaustralia.onmicrosoft.com)
