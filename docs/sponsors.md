@@ -22,7 +22,6 @@ hide:
 <div class="grid cards" markdown>
 
 * [![grafana logo](images/grafana.png)](https://grafana.com){target=_blank}
-* [![f5 logo](images/f5.png)](https://f5.com){target=_blank}
 * [![mantel group logo](images/mantelgroup.png)](https://mantelgroup.com.au){target=_blank}
 * ![Sponsor CloudCon 2025](images/placeholder.jpeg) Sponsorship opportunities are still available...
 
@@ -31,6 +30,7 @@ hide:
 ## Gold Sponsors
 
 <div class="grid cards" markdown>
+* [![f5 logo](images/f5.png)](https://f5.com){target=_blank}
 * [![clickhouse logo](images/clickhouse.png)](https://clickhouse.com){target=_blank}
 * [![elastic logo](images/elastic.jpeg)](https://elastic.com){target=_blank}
 * ![Sponsor CloudCon 2025](images/placeholder.jpeg) Sponsorship opportunities are still available...
