@@ -8,16 +8,20 @@ theme:
     # accent: deep orange
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
 # plugins:
 #   - social
 plugins: []
 site_url: https://agardnerit.github.io/cloudcon
 nav:
   - Home: "/cloudcon"
-  - Register: "./register"
+  - Info: "./info"
+  - Speakers & Call for Papers: "./speakers"
   - Sponsors: "./sponsors"
   - Agenda: "./agenda"
-  - Speakers & Call for Papers: "./speakers"
+  - About: "./about"
+  - Register: "./register"
+
   
 extra:
   social:
